@@ -1,3 +1,9 @@
+libqapt-qt6 (3.0.10-1) UNRELEASED; urgency=medium
+
+  * 修复 pkg-config 调用时无法找到正常 include 文件夹的问题
+
+ -- gfdgd_xi <3025613752@qq.com>  Fri, 12 Jun 2026 18:51:01 +0800
+
 libqapt-qt6 (3.0.10) unstable; urgency=medium
 
   * fix: support en_US of polkit policy
