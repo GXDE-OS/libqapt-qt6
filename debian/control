@@ -20,6 +20,7 @@ Build-Depends: cmake (>= 2.8.12),
                libpolkit-qt6-1-dev | libpolkit-qt5-1-dev,
                libxapian-dev,
                pkg-config,
+               qt6-5compat-dev,
 Standards-Version: 4.5.0
 Homepage: https://cgit.kde.org/libqapt.git/
 Vcs-Browser: https://salsa.debian.org/qt-kde-team/extras/qapt
